@@ -185,8 +185,22 @@ for year, playoff_date in PLAYOFF_STARTS.items():
 results = pd.DataFrame(trades).dropna(subset=["Entry Date"])
 
 print("=" * 120)
-print("MSGS CALENDAR SPREAD BACKTEST — RESULTS")
+print("MSGS PLAYOFF VOLATILITY TRADE — CALENDAR SPREAD WITH PROFIT TARGET")
 print("=" * 120)
+print()
+print("THESIS:")
+print("  MSGS (Madison Square Garden Sports) owns the Knicks and Rangers. Revenue is")
+print("  directly tied to playoff depth, but low analyst coverage and thin options markets")
+print("  lead to underpriced volatility before the NBA playoffs.")
+print()
+print("STRATEGY:")
+print(f"  Structure : Sell {SHORT_EXPIRY_DAYS}-day ATM call, buy {LONG_EXPIRY_DAYS}-day ATM call (calendar spread)")
+print(f"  Entry     : Fixed calendar, {ENTRY_DAYS_BEFORE} days before NBA playoff start")
+print(f"  Exit      : Close at {int(SPREAD_PROFIT_TARGET*100)}% profit target, or hold to short leg expiry ({SHORT_EXPIRY_DAYS} days)")
+print("  Edge      : Theta decay (short leg decays faster) + vol expansion, without")
+print("              needing a large spot move from MSGS")
+print()
+print("─" * 120)
 display_cols = ["Year", "Entry Date", "Entry Price", "Entry Vol", "Net Debit",
                 "Net Vega", "Exit Date", "Exit Price", "Exit Vol",
                 "Spread Value Exit", "Holding Days", "Spread PnL", "PnL %", "Win"]
