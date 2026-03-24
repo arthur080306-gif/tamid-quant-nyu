@@ -48,13 +48,10 @@ PLAYOFF_STARTS = {
     2023: pd.Timestamp("2023-04-15"),
     2024: pd.Timestamp("2024-04-20"),
 }
-ENTRY_WINDOW_DAYS = 21
+ENTRY_DAYS_BEFORE = 28          # enter 4 weeks before playoffs (fixed calendar)
 RISK_FREE_RATE = 0.05
 SHORT_EXPIRY_DAYS = 30          # front-month: expires ~30 days out
 LONG_EXPIRY_DAYS = 90           # back-month: expires ~90 days out
-REALIZED_VOL_WINDOW = 30
-PERCENTILE_WINDOW = 504
-ENTRY_PERCENTILE = 20
 
 # ─────────────────────────────────────────────
 # 1. FETCH DATA
@@ -68,11 +65,9 @@ df = df.dropna()
 print(f"  Loaded {len(df)} trading days ({df.index[0].date()} → {df.index[-1].date()})\n")
 
 # ─────────────────────────────────────────────
-# 2. RETURNS & REALIZED VOLATILITY
+# 2. RETURNS
 # ─────────────────────────────────────────────
 df["ret"] = df["Close"].pct_change()
-df["rv30"] = df["ret"].rolling(REALIZED_VOL_WINDOW).std() * np.sqrt(252)
-df["rv30_pct20"] = df["rv30"].rolling(PERCENTILE_WINDOW).quantile(ENTRY_PERCENTILE / 100)
 
 # ─────────────────────────────────────────────
 # 3. GJR-GARCH(1,1) CONDITIONAL VOLATILITY
@@ -92,25 +87,15 @@ print(f"  GARCH fit complete. AIC={res.aic:.1f}\n")
 trades = []
 
 for year, playoff_date in PLAYOFF_STARTS.items():
-    window_start = playoff_date - timedelta(days=ENTRY_WINDOW_DAYS)
-
-    mask = (
-        (df.index >= window_start)
-        & (df.index < playoff_date)
-        & (df["rv30"] < df["rv30_pct20"])
-    )
-    signal_days = df[mask]
-
-    if signal_days.empty:
-        print(f"  {year}: No entry signal found")
-        trades.append({
-            "Year": year, "Entry Date": None, "Entry Price": None,
-            "Exit Date": None, "Exit Price": None,
-            "Holding Days": None, "Spread PnL": None, "Win": None,
-        })
+    # Fixed calendar entry: 4 weeks before playoffs
+    target_entry = playoff_date - timedelta(days=ENTRY_DAYS_BEFORE)
+    # Find the nearest trading day on or after target
+    valid_days = df[df.index >= target_entry]
+    if valid_days.empty:
+        print(f"  {year}: No data around entry date")
         continue
 
-    entry_date = signal_days.index[0]
+    entry_date = valid_days.index[0]
     entry_price = float(df.loc[entry_date, "Close"])
     entry_vol = float(df.loc[entry_date, "garch_vol"])
     strike = entry_price  # ATM
@@ -239,8 +224,8 @@ legend_elements = [
 ]
 ax1.legend(handles=legend_elements + [ax1.get_lines()[0]], loc="upper left", fontsize=9)
 
-ax2.plot(df.index, df["rv30"] * 100, color="#ff7f0e", lw=1.0, label="30-Day Realized Vol (%)")
-ax2.plot(df.index, df["garch_vol"] * 100, color="#8c564b", lw=0.8, alpha=0.6, label="GJR-GARCH Vol (%)")
+ax2.plot(df.index, df["garch_vol"] * 100, color="#ff7f0e", lw=1.0, label="GJR-GARCH Vol (%)")
+ax2.plot(df.index, df["garch_vol"] * 100, color="#8c564b", lw=0.8, alpha=0.6, label="GJR-GARCH Cond. Vol (%)")
 for _, row in results.iterrows():
     ax2.axvline(pd.Timestamp(row["Entry Date"]), color="#2ca02c", lw=1.0, linestyle=":")
 ax2.set_ylabel("Volatility (%)")
