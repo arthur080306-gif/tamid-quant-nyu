@@ -1,0 +1,326 @@
+season,date,home_team,away_team,home_score,away_score,rangers_home,home_ml,draw_ml,away_ml,rangers_ml,opponent_ml,game_url
+2021-22,2022-06-11,Tampa Bay Lightning,New York Rangers,2.0,,False,-125.0,290.0,260.0,260.0,-125.0,/hockey/usa/nhl-2021-2022/tampa-bay-lightning-new-york-rangers-betoz0HQ/
+2021-22,2022-06-09,New York Rangers,Tampa Bay Lightning,3.0,,True,170.0,275.0,135.0,170.0,135.0,/hockey/usa/nhl-2021-2022/new-york-rangers-tampa-bay-lightning-QZ34clgG/
+2021-22,2022-06-07,Tampa Bay Lightning,New York Rangers,4.0,,False,-105.0,290.0,240.0,240.0,-105.0,/hockey/usa/nhl-2021-2022/tampa-bay-lightning-new-york-rangers-YDlKGbbp/
+2021-22,2022-06-05,Tampa Bay Lightning,New York Rangers,3.0,,False,-105.0,300.0,240.0,240.0,-105.0,/hockey/usa/nhl-2021-2022/tampa-bay-lightning-new-york-rangers-tMdhLvjT/
+2021-22,2022-06-03,New York Rangers,Tampa Bay Lightning,3.0,,True,165.0,290.0,135.0,165.0,135.0,/hockey/usa/nhl-2021-2022/new-york-rangers-tampa-bay-lightning-2VclMKzN/
+2021-22,2022-06-01,New York Rangers,Tampa Bay Lightning,6.0,,True,160.0,320.0,125.0,160.0,125.0,/hockey/usa/nhl-2021-2022/new-york-rangers-tampa-bay-lightning-K68qN0LG/
+2021-22,2022-05-30,Carolina Hurricanes,New York Rangers,6.0,,False,114.0,275.0,200.0,200.0,114.0,/hockey/usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-OvBvEXON/
+2021-22,2022-05-28,New York Rangers,Carolina Hurricanes,5.0,,True,145.0,275.0,154.0,145.0,154.0,/hockey/usa/nhl-2021-2022/new-york-rangers-carolina-hurricanes-hvPBAJdF/
+2021-22,2022-05-26,Carolina Hurricanes,New York Rangers,3.0,,False,114.0,285.0,200.0,200.0,114.0,/hockey/usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-WU13Oawd/
+2021-22,2022-05-24,New York Rangers,Carolina Hurricanes,4.0,,True,145.0,275.0,154.0,145.0,154.0,/hockey/usa/nhl-2021-2022/new-york-rangers-carolina-hurricanes-jcatCHxG/
+2021-22,2022-05-22,New York Rangers,Carolina Hurricanes,3.0,,True,154.0,275.0,145.0,154.0,145.0,/hockey/usa/nhl-2021-2022/new-york-rangers-carolina-hurricanes-8Y9yDcN9/
+2021-22,2022-05-20,Carolina Hurricanes,New York Rangers,2.0,,False,-105.0,300.0,229.0,229.0,-105.0,/hockey/usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-UsBXDw83/
+2021-22,2022-05-18,Carolina Hurricanes,New York Rangers,2.0,,False,100.0,309.0,220.0,220.0,100.0,/hockey/usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-086TEJhc/
+2021-22,2022-05-15,New York Rangers,Pittsburgh Penguins,4.0,,True,129.0,300.0,165.0,129.0,165.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-r1mD28a1/
+2021-22,2022-05-13,Pittsburgh Penguins,New York Rangers,5.0,,False,160.0,309.0,129.0,129.0,160.0,/hockey/usa/nhl-2021-2022/pittsburgh-penguins-new-york-rangers-roH0JTs9/
+2021-22,2022-05-11,New York Rangers,Pittsburgh Penguins,5.0,,True,120.0,325.0,165.0,120.0,165.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-Akr8xsir/
+2021-22,2022-05-09,Pittsburgh Penguins,New York Rangers,7.0,,False,150.0,309.0,140.0,140.0,150.0,/hockey/usa/nhl-2021-2022/pittsburgh-penguins-new-york-rangers-MinUN2m0/
+2021-22,2022-05-07,Pittsburgh Penguins,New York Rangers,7.0,,False,150.0,300.0,140.0,140.0,150.0,/hockey/usa/nhl-2021-2022/pittsburgh-penguins-new-york-rangers-vTdPOrYg/
+2021-22,2022-05-05,New York Rangers,Pittsburgh Penguins,5.0,,True,-105.0,320.0,200.0,-105.0,200.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-0xbLPOIm/
+2021-22,2022-05-03,New York Rangers,Pittsburgh Penguins,4.0,,True,114.0,300.0,190.0,114.0,190.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-W2gHQ43s/
+2021-22,2022-04-29,New York Rangers,Washington Capitals,3.0,,True,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2021-2022/new-york-rangers-washington-capitals-AozszR7L/
+2021-22,2022-04-27,New York Rangers,Montreal Canadiens,4.0,,True,-120.0,334.0,240.0,-120.0,240.0,/hockey/usa/nhl-2021-2022/new-york-rangers-montreal-canadiens-WQ1LeUm3/
+2021-22,2022-04-26,New York Rangers,Carolina Hurricanes,4.0,,True,140.0,300.0,150.0,140.0,150.0,/hockey/usa/nhl-2021-2022/new-york-rangers-carolina-hurricanes-voOy88OS/
+2021-22,2022-04-23,Boston Bruins,New York Rangers,3.0,,False,129.0,300.0,170.0,170.0,129.0,/hockey/usa/nhl-2021-2022/boston-bruins-new-york-rangers-GQaBevZ5/
+2021-22,2022-04-21,New York Islanders,New York Rangers,6.0,,False,165.0,300.0,129.0,129.0,165.0,/hockey/usa/nhl-2021-2022/new-york-islanders-new-york-rangers-2NZysuKC/
+2021-22,2022-04-19,New York Rangers,Winnipeg Jets,3.0,,True,-125.0,325.0,260.0,-125.0,260.0,/hockey/usa/nhl-2021-2022/new-york-rangers-winnipeg-jets-xG6Bk678/
+2021-22,2022-04-16,New York Rangers,Detroit Red Wings,4.0,,True,-227.0,390.0,450.0,-227.0,450.0,/hockey/usa/nhl-2021-2022/new-york-rangers-detroit-red-wings-UFUKGTmH/
+2021-22,2022-04-13,Philadelphia Flyers,New York Rangers,4.0,,False,260.0,325.0,-135.0,-135.0,260.0,/hockey/usa/nhl-2021-2022/philadelphia-flyers-new-york-rangers-xpv4PIKD/
+2021-22,2022-04-12,New York Rangers,Carolina Hurricanes,4.0,,True,154.0,290.0,140.0,154.0,140.0,/hockey/usa/nhl-2021-2022/new-york-rangers-carolina-hurricanes-UDimT0Ll/
+2021-22,2022-04-09,New York Rangers,Ottawa Senators,5.0,,True,-192.0,375.0,350.0,-192.0,350.0,/hockey/usa/nhl-2021-2022/new-york-rangers-ottawa-senators-hh2TRmcB/
+2021-22,2022-04-07,New York Rangers,Pittsburgh Penguins,3.0,,True,125.0,300.0,165.0,125.0,165.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-4x15mP7d/
+2021-22,2022-04-05,New Jersey Devils,New York Rangers,3.0,,False,200.0,350.0,-105.0,-105.0,200.0,/hockey/usa/nhl-2021-2022/new-jersey-devils-new-york-rangers-tdiG9FOb/
+2021-22,2022-04-03,New York Rangers,Philadelphia Flyers,4.0,,True,-200.0,400.0,400.0,-200.0,400.0,/hockey/usa/nhl-2021-2022/new-york-rangers-philadelphia-flyers-0OGseG95/
+2021-22,2022-04-01,New York Rangers,New York Islanders,3.0,,True,100.0,300.0,190.0,100.0,190.0,/hockey/usa/nhl-2021-2022/new-york-rangers-new-york-islanders-zHgdqJAg/
+2021-22,2022-03-30,Detroit Red Wings,New York Rangers,5.0,,False,190.0,350.0,-105.0,-105.0,190.0,/hockey/usa/nhl-2021-2022/detroit-red-wings-new-york-rangers-MwaIXLBs/
+2021-22,2022-03-29,Pittsburgh Penguins,New York Rangers,3.0,,False,100.0,325.0,200.0,200.0,100.0,/hockey/usa/nhl-2021-2022/pittsburgh-penguins-new-york-rangers-AaVaFvdD/
+2021-22,2022-03-27,New York Rangers,Buffalo Sabres,5.0,,True,-156.0,309.0,375.0,-156.0,375.0,/hockey/usa/nhl-2021-2022/new-york-rangers-buffalo-sabres-02N2wir3/
+2021-22,2022-03-25,New York Rangers,Pittsburgh Penguins,5.0,,True,160.0,320.0,125.0,160.0,125.0,/hockey/usa/nhl-2021-2022/new-york-rangers-pittsburgh-penguins-bwHY2A6j/
+2021-22,2022-03-22,New Jersey Devils,New York Rangers,7.0,,False,190.0,325.0,104.0,104.0,190.0,/hockey/usa/nhl-2021-2022/new-jersey-devils-new-york-rangers-CrdEFSYb/
+2021-22,2022-03-20,Carolina Hurricanes,New York Rangers,2.0,,False,-147.0,325.0,320.0,320.0,-147.0,/hockey/usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-8ATibR3O/
+2021-22,2022-03-19,Tampa Bay Lightning,New York Rangers,2.0,,False,-132.0,350.0,260.0,260.0,-132.0,/hockey/usa/nhl-2021-2022/tampa-bay-lightning-new-york-rangers-r3rS3VZn/
+2021-22,2022-03-17,New York Rangers,New York Islanders,2.0,,True,110.0,320.0,179.0,110.0,179.0,/hockey/usa/nhl-2021-2022/new-york-rangers-new-york-islanders-G8OwtQxd/
+2021-22,2022-03-15,New York Rangers,Anaheim Ducks,4.0,,True,-141.0,400.0,260.0,-141.0,260.0,/hockey/usa/nhl-2021-2022/new-york-rangers-anaheim-ducks-UmnEkQdn/
+2021-22,2022-03-12,Dallas Stars,New York Rangers,7.0,,False,114.0,325.0,170.0,170.0,114.0,/hockey/usa/nhl-2021-2022/dallas-stars-new-york-rangers-0CWPJPCI/
+2021-22,2022-03-10,St Louis Blues,New York Rangers,6.0,,False,120.0,320.0,165.0,165.0,120.0,/hockey/usa/nhl-2021-2022/st-louis-blues-new-york-rangers-rDwYLfxk/
+2021-22,2022-03-08,Minnesota Wild,New York Rangers,5.0,,False,-111.0,325.0,220.0,220.0,-111.0,/hockey/usa/nhl-2021-2022/minnesota-wild-new-york-rangers-ImonVbF2/
+2021-22,2022-03-06,Winnipeg Jets,New York Rangers,4.0,,False,135.0,325.0,145.0,145.0,135.0,/hockey/usa/nhl-2021-2022/winnipeg-jets-new-york-rangers-rT9EX6gi/
+2021-22,2022-03-04,New York Rangers,New Jersey Devils,3.0,,True,-116.0,350.0,225.0,-116.0,225.0,/hockey/usa/nhl-2021-2022/new-york-rangers-new-jersey-devils-dbtU5rni/
+2021-22,2022-03-02,New York Rangers,St Louis Blues,5.0,,True,150.0,300.0,140.0,150.0,140.0,/hockey/usa/nhl-2021-2022/new-york-rangers-st-louis-blues-ELBjhPHi/
+2021-22,2022-02-27,New York Rangers,Vancouver Canucks,5.0,,True,135.0,325.0,150.0,135.0,150.0,/hockey/usa/nhl-2021-2022/new-york-rangers-vancouver-canucks-jcVyOdQP/
+2021-22,2022-02-26,Pittsburgh Penguins,New York Rangers,1.0,,False,-105.0,325.0,210.0,210.0,-105.0,/hockey/usa/nhl-2021-2022/pittsburgh-penguins-new-york-rangers-nmcmiOF0/
+2021-22,2022-02-24,New York Rangers,Washington Capitals,4.0,,True,114.0,325.0,170.0,114.0,170.0,/hockey/usa/nhl-2021-2022/new-york-rangers-washington-capitals-Wt29uRGl/
+2021-22,2022-02-20,Ottawa Senators,New York Rangers,2.0,,False,280.0,375.0,-147.0,-147.0,280.0,/hockey/usa/nhl-2021-2022/ottawa-senators-new-york-rangers-WYPH0XxT/
+2021-22,2022-02-17,New York Rangers,Detroit Red Wings,3.0,,True,-132.0,350.0,260.0,-132.0,260.0,/hockey/usa/nhl-2021-2022/new-york-rangers-detroit-red-wings-AuXoHSdc/
+2021-22,2022-02-15,New York Rangers,Boston Bruins,2.0,,True,100.0,325.0,200.0,100.0,200.0,/hockey/usa/nhl-2021-2022/new-york-rangers-boston-bruins-d8gbfkfT/
+2022-23,2023-05-01,New Jersey Devils,New York Rangers,4.0,,False,140.0,300.0,150.0,150.0,140.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-4dweQgrb/
+2022-23,2023-04-29,New York Rangers,New Jersey Devils,5.0,,True,125.0,280.0,179.0,125.0,179.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-nHSdMHek/
+2022-23,2023-04-27,New Jersey Devils,New York Rangers,4.0,,False,129.0,300.0,160.0,160.0,129.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-0IowAL2c/
+2022-23,2023-04-24,New York Rangers,New Jersey Devils,3.0,,True,100.0,300.0,210.0,100.0,210.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-IoGwHN8F/
+2022-23,2023-04-22,New York Rangers,New Jersey Devils,2.0,,True,125.0,300.0,175.0,125.0,175.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-veHZH3g9/
+2022-23,2023-04-20,New Jersey Devils,New York Rangers,5.0,,False,129.0,300.0,170.0,170.0,129.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-dbnEIM4f/
+2022-23,2023-04-18,New Jersey Devils,New York Rangers,5.0,,False,125.0,300.0,170.0,170.0,125.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-bwmtloZj/
+2022-23,2023-04-13,New York Rangers,Toronto Maple Leafs,3.0,,True,120.0,300.0,175.0,120.0,175.0,/hockey/usa/nhl-2022-2023/new-york-rangers-toronto-maple-leafs-dh95PwZ6/
+2022-23,2023-04-10,New York Rangers,Buffalo Sabres,3.0,,True,-125.0,350.0,250.0,-125.0,250.0,/hockey/usa/nhl-2022-2023/new-york-rangers-buffalo-sabres-r1L4ILSh/
+2022-23,2023-04-08,Columbus Blue Jackets,New York Rangers,4.0,,False,400.0,400.0,-189.0,-189.0,400.0,/hockey/usa/nhl-2022-2023/columbus-blue-jackets-new-york-rangers-Am1R42bg/
+2022-23,2023-04-06,St Louis Blues,New York Rangers,3.0,,False,190.0,325.0,104.0,104.0,190.0,/hockey/usa/nhl-2022-2023/st-louis-blues-new-york-rangers-OWxphPEm/
+2022-23,2023-04-05,New York Rangers,Tampa Bay Lightning,6.0,,True,135.0,300.0,160.0,135.0,160.0,/hockey/usa/nhl-2022-2023/new-york-rangers-tampa-bay-lightning-UeGR4ssd/
+2022-23,2023-04-02,Washington Capitals,New York Rangers,5.0,,False,179.0,320.0,114.0,114.0,179.0,/hockey/usa/nhl-2022-2023/washington-capitals-new-york-rangers-OfBDcQZS/
+2022-23,2023-03-31,Buffalo Sabres,New York Rangers,3.0,,False,170.0,325.0,114.0,114.0,170.0,/hockey/usa/nhl-2022-2023/buffalo-sabres-new-york-rangers-0hbNn9LA/
+2022-23,2023-03-30,New Jersey Devils,New York Rangers,2.0,,False,129.0,320.0,160.0,160.0,129.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-EsNhXTLN/
+2022-23,2023-03-28,New York Rangers,Columbus Blue Jackets,6.0,,True,-227.0,425.0,450.0,-227.0,450.0,/hockey/usa/nhl-2022-2023/new-york-rangers-columbus-blue-jackets-E15ywYin/
+2022-23,2023-03-25,Florida Panthers,New York Rangers,4.0,,False,120.0,325.0,154.0,154.0,120.0,/hockey/usa/nhl-2022-2023/florida-panthers-new-york-rangers-00WwKJo7/
+2022-23,2023-03-23,Carolina Hurricanes,New York Rangers,2.0,,False,104.0,300.0,190.0,190.0,104.0,/hockey/usa/nhl-2022-2023/carolina-hurricanes-new-york-rangers-hG4l92Xl/
+2022-23,2023-03-21,New York Rangers,Carolina Hurricanes,3.0,,True,140.0,300.0,145.0,140.0,145.0,/hockey/usa/nhl-2022-2023/new-york-rangers-carolina-hurricanes-jmrJgNX1/
+2022-23,2023-03-19,New York Rangers,Nashville Predators,7.0,,True,-135.0,325.0,300.0,-135.0,300.0,/hockey/usa/nhl-2022-2023/new-york-rangers-nashville-predators-MBxr2oQL/
+2022-23,2023-03-18,New York Rangers,Pittsburgh Penguins,6.0,,True,114.0,320.0,179.0,114.0,179.0,/hockey/usa/nhl-2022-2023/new-york-rangers-pittsburgh-penguins-htlurQYk/
+2022-23,2023-03-16,New York Rangers,Pittsburgh Penguins,4.0,,True,114.0,325.0,175.0,114.0,175.0,/hockey/usa/nhl-2022-2023/new-york-rangers-pittsburgh-penguins-W4CPme5B/
+2022-23,2023-03-14,New York Rangers,Washington Capitals,5.0,,True,-110.0,320.0,240.0,-110.0,240.0,/hockey/usa/nhl-2022-2023/new-york-rangers-washington-capitals-rL1pi9f6/
+2022-23,2023-03-12,Pittsburgh Penguins,New York Rangers,3.0,,False,125.0,320.0,160.0,160.0,125.0,/hockey/usa/nhl-2022-2023/pittsburgh-penguins-new-york-rangers-jXH2ucw4/
+2022-23,2023-03-11,Buffalo Sabres,New York Rangers,2.0,,False,190.0,350.0,100.0,100.0,190.0,/hockey/usa/nhl-2022-2023/buffalo-sabres-new-york-rangers-UqjRu6Xn/
+2022-23,2023-03-09,Montreal Canadiens,New York Rangers,4.0,,False,400.0,375.0,-189.0,-189.0,400.0,/hockey/usa/nhl-2022-2023/montreal-canadiens-new-york-rangers-dlBAvWA0/
+2022-23,2023-03-04,Boston Bruins,New York Rangers,4.0,,False,-105.0,300.0,220.0,220.0,-105.0,/hockey/usa/nhl-2022-2023/boston-bruins-new-york-rangers-dfnc7CRK/
+2022-23,2023-03-02,New York Rangers,Ottawa Senators,5.0,,True,100.0,325.0,200.0,100.0,200.0,/hockey/usa/nhl-2022-2023/new-york-rangers-ottawa-senators-U1iEXNcG/
+2022-23,2023-03-01,Philadelphia Flyers,New York Rangers,3.0,,False,300.0,350.0,-141.0,-141.0,300.0,/hockey/usa/nhl-2022-2023/philadelphia-flyers-new-york-rangers-4t3fi0yN/
+2022-23,2023-02-26,New York Rangers,Los Angeles Kings,5.0,,True,100.0,320.0,200.0,100.0,200.0,/hockey/usa/nhl-2022-2023/new-york-rangers-los-angeles-kings-YJZ8u3xB/
+2022-23,2023-02-25,Washington Capitals,New York Rangers,6.0,,False,179.0,325.0,110.0,110.0,179.0,/hockey/usa/nhl-2022-2023/washington-capitals-new-york-rangers-tQAVRq8B/
+2022-23,2023-02-23,Detroit Red Wings,New York Rangers,4.0,,False,190.0,320.0,104.0,104.0,190.0,/hockey/usa/nhl-2022-2023/detroit-red-wings-new-york-rangers-WY1HW7gt/
+2022-23,2023-02-20,New York Rangers,Winnipeg Jets,4.0,,True,100.0,300.0,210.0,100.0,210.0,/hockey/usa/nhl-2022-2023/new-york-rangers-winnipeg-jets-trGRhSUH/
+2022-23,2023-02-18,Calgary Flames,New York Rangers,3.0,,False,104.0,325.0,190.0,190.0,104.0,/hockey/usa/nhl-2022-2023/calgary-flames-new-york-rangers-Q7JjiFgD/
+2022-23,2023-02-17,Edmonton Oilers,New York Rangers,5.0,,False,114.0,350.0,165.0,165.0,114.0,/hockey/usa/nhl-2022-2023/edmonton-oilers-new-york-rangers-W8QsgyP0/
+2022-23,2023-02-15,Vancouver Canucks,New York Rangers,6.0,,False,225.0,350.0,-120.0,-120.0,225.0,/hockey/usa/nhl-2022-2023/vancouver-canucks-new-york-rangers-Q7sa1aHK/
+2022-23,2023-02-11,Carolina Hurricanes,New York Rangers,6.0,,False,-130.0,325.0,275.0,275.0,-130.0,/hockey/usa/nhl-2022-2023/carolina-hurricanes-new-york-rangers-Y3wpvYvo/
+2022-23,2023-02-10,New York Rangers,Seattle Kraken,6.0,,True,-115.0,320.0,250.0,-115.0,250.0,/hockey/usa/nhl-2022-2023/new-york-rangers-seattle-kraken-trQi14ts/
+2022-23,2023-02-08,New York Rangers,Vancouver Canucks,4.0,,True,-141.0,350.0,280.0,-141.0,280.0,/hockey/usa/nhl-2022-2023/new-york-rangers-vancouver-canucks-WARoy33F/
+2022-23,2023-02-06,New York Rangers,Calgary Flames,5.0,,True,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2022-2023/new-york-rangers-calgary-flames-63UZw5Jd/
+2022-23,2023-01-27,New York Rangers,Vegas Golden Knights,4.0,,True,114.0,300.0,190.0,114.0,190.0,/hockey/usa/nhl-2022-2023/new-york-rangers-vegas-golden-knights-0SOjtget/
+2022-23,2023-01-25,Toronto Maple Leafs,New York Rangers,3.0,,False,100.0,300.0,210.0,210.0,100.0,/hockey/usa/nhl-2022-2023/toronto-maple-leafs-new-york-rangers-z74USAzF/
+2022-23,2023-01-23,New York Rangers,Florida Panthers,6.0,,True,104.0,325.0,200.0,104.0,200.0,/hockey/usa/nhl-2022-2023/new-york-rangers-florida-panthers-byC5zU7K/
+2022-23,2023-01-19,New York Rangers,Boston Bruins,3.0,,True,154.0,300.0,140.0,154.0,140.0,/hockey/usa/nhl-2022-2023/new-york-rangers-boston-bruins-vcIrPu3i/
+2022-23,2023-01-16,Columbus Blue Jackets,New York Rangers,3.0,,False,229.0,325.0,-110.0,-110.0,229.0,/hockey/usa/nhl-2022-2023/columbus-blue-jackets-new-york-rangers-noEihaYT/
+2022-23,2023-01-15,New York Rangers,Montreal Canadiens,2.0,,True,-227.0,400.0,500.0,-227.0,500.0,/hockey/usa/nhl-2022-2023/new-york-rangers-montreal-canadiens-bPqyOtwC/
+2022-23,2023-01-12,New York Rangers,Dallas Stars,2.0,,True,129.0,300.0,165.0,129.0,165.0,/hockey/usa/nhl-2022-2023/new-york-rangers-dallas-stars-08EZSr5I/
+2022-23,2023-01-10,New York Rangers,Minnesota Wild,4.0,,True,114.0,300.0,190.0,114.0,190.0,/hockey/usa/nhl-2022-2023/new-york-rangers-minnesota-wild-WGbeSBE7/
+2022-23,2023-01-07,New Jersey Devils,New York Rangers,4.0,,False,135.0,300.0,154.0,154.0,135.0,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-8Eo5Hf0k/
+2022-23,2023-01-05,Montreal Canadiens,New York Rangers,4.0,,False,250.0,350.0,-125.0,-125.0,250.0,/hockey/usa/nhl-2022-2023/montreal-canadiens-new-york-rangers-GQsl8wsc/
+2022-23,2023-01-03,New York Rangers,Carolina Hurricanes,5.0,,True,154.0,300.0,135.0,154.0,135.0,/hockey/usa/nhl-2022-2023/new-york-rangers-carolina-hurricanes-Aq9vF1vi/
+2022-23,2023-01-01,Florida Panthers,New York Rangers,5.0,,False,104.0,320.0,200.0,200.0,104.0,/hockey/usa/nhl-2022-2023/florida-panthers-new-york-rangers-8G0BFDD4/
+2022-23,2022-12-29,Tampa Bay Lightning,New York Rangers,2.0,,False,110.0,300.0,200.0,200.0,110.0,/hockey/usa/nhl-2022-2023/tampa-bay-lightning-new-york-rangers-0YPc0s80/
+2022-23,2022-12-27,New York Rangers,Washington Capitals,4.0,,True,-105.0,300.0,210.0,-105.0,210.0,/hockey/usa/nhl-2022-2023/new-york-rangers-washington-capitals-v3mRnOw1/
+2022-23,2022-12-22,New York Rangers,New York Islanders,5.0,,True,100.0,300.0,210.0,100.0,210.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-york-islanders-fPOjEdj4/
+2022-23,2022-12-20,Pittsburgh Penguins,New York Rangers,3.0,,False,125.0,300.0,175.0,175.0,125.0,/hockey/usa/nhl-2022-2023/pittsburgh-penguins-new-york-rangers-E53HacyB/
+2022-23,2022-12-18,Chicago Blackhawks,New York Rangers,7.0,,False,325.0,325.0,-154.0,-154.0,325.0,/hockey/usa/nhl-2022-2023/chicago-blackhawks-new-york-rangers-02wrobMH/
+2022-23,2022-12-17,Philadelphia Flyers,New York Rangers,6.0,,False,210.0,300.0,100.0,100.0,210.0,/hockey/usa/nhl-2022-2023/philadelphia-flyers-new-york-rangers-beYJj2ht/
+2022-23,2022-12-15,New York Rangers,Toronto Maple Leafs,3.0,,True,160.0,300.0,135.0,160.0,135.0,/hockey/usa/nhl-2022-2023/new-york-rangers-toronto-maple-leafs-YRc0NFo8/
+2022-23,2022-12-12,New York Rangers,New Jersey Devils,4.0,,True,140.0,300.0,150.0,140.0,150.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-pGtEs4bS/
+2022-23,2022-12-09,Colorado Avalanche,New York Rangers,2.0,,False,200.0,300.0,100.0,100.0,200.0,/hockey/usa/nhl-2022-2023/colorado-avalanche-new-york-rangers-rNUJXSU3/
+2022-23,2022-12-07,Vegas Golden Knights,New York Rangers,5.0,,False,129.0,300.0,165.0,165.0,129.0,/hockey/usa/nhl-2022-2023/vegas-golden-knights-new-york-rangers-jVMiUgOB/
+2022-23,2022-12-05,New York Rangers,St Louis Blues,6.0,,True,-105.0,300.0,220.0,-105.0,220.0,/hockey/usa/nhl-2022-2023/new-york-rangers-st-louis-blues-4bWHHGv6/
+2022-23,2022-12-03,New York Rangers,Chicago Blackhawks,5.0,,True,-182.0,375.0,375.0,-182.0,375.0,/hockey/usa/nhl-2022-2023/new-york-rangers-chicago-blackhawks-je6r3HPC/
+2022-23,2022-12-02,New York Rangers,Ottawa Senators,3.0,,True,-111.0,325.0,225.0,-111.0,225.0,/hockey/usa/nhl-2022-2023/new-york-rangers-ottawa-senators-rHyTa0Wn/
+2022-23,2022-11-30,Ottawa Senators,New York Rangers,3.0,,False,129.0,320.0,154.0,154.0,129.0,/hockey/usa/nhl-2022-2023/ottawa-senators-new-york-rangers-xvF1qun6/
+2022-23,2022-11-28,New York Rangers,New Jersey Devils,5.0,,True,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-fRFBuNRl/
+2022-23,2022-11-26,New York Rangers,Edmonton Oilers,4.0,,True,,,,,,/hockey/usa/nhl-2022-2023/new-york-rangers-edmonton-oilers-E7GFZ3Is/
+2022-23,2022-11-23,Anaheim Ducks,New York Rangers,3.0,,False,220.0,320.0,-105.0,-105.0,220.0,/hockey/usa/nhl-2022-2023/anaheim-ducks-new-york-rangers-8YkXnpIH/
+2022-23,2022-11-22,Los Angeles Kings,New York Rangers,5.0,,False,145.0,320.0,135.0,135.0,145.0,/hockey/usa/nhl-2022-2023/los-angeles-kings-new-york-rangers-65T1X4IU/
+2022-23,2022-11-19,San Jose Sharks,New York Rangers,2.0,,False,220.0,320.0,-111.0,-111.0,220.0,/hockey/usa/nhl-2022-2023/san-jose-sharks-new-york-rangers-UNvYwkZn/
+2022-23,2022-11-17,Seattle Kraken,New York Rangers,3.0,,False,170.0,300.0,120.0,120.0,170.0,/hockey/usa/nhl-2022-2023/seattle-kraken-new-york-rangers-Qy7872tI/
+2022-23,2022-11-13,New York Rangers,Arizona Coyotes,4.0,,True,-227.0,425.0,425.0,-227.0,425.0,/hockey/usa/nhl-2022-2023/new-york-rangers-arizona-coyotes-Cjdz59KJ/
+2022-23,2022-11-12,Nashville Predators,New York Rangers,2.0,,False,154.0,300.0,129.0,129.0,154.0,/hockey/usa/nhl-2022-2023/nashville-predators-new-york-rangers-z9NSoUDs/
+2022-23,2022-11-10,Detroit Red Wings,New York Rangers,8.0,,False,210.0,320.0,-105.0,-105.0,210.0,/hockey/usa/nhl-2022-2023/detroit-red-wings-new-york-rangers-Q1fQjJa9/
+2022-23,2022-11-08,New York Rangers,New York Islanders,4.0,,True,-116.0,350.0,220.0,-116.0,220.0,/hockey/usa/nhl-2022-2023/new-york-rangers-new-york-islanders-UZvnw0V9/
+2022-23,2022-11-06,New York Rangers,Detroit Red Wings,3.0,,True,-156.0,375.0,300.0,-156.0,300.0,/hockey/usa/nhl-2022-2023/new-york-rangers-detroit-red-wings-tEbiHI8j/
+2022-23,2022-11-03,New York Rangers,Boston Bruins,5.0,,True,129.0,320.0,154.0,129.0,154.0,/hockey/usa/nhl-2022-2023/new-york-rangers-boston-bruins-SSmJEPnh/
+2022-23,2022-11-01,New York Rangers,Philadelphia Flyers,1.0,,True,-152.0,350.0,320.0,-152.0,320.0,/hockey/usa/nhl-2022-2023/new-york-rangers-philadelphia-flyers-nkrhT3pl/
+2022-23,2022-10-30,Arizona Coyotes,New York Rangers,3.0,,False,240.0,350.0,-120.0,-120.0,240.0,/hockey/usa/nhl-2022-2023/arizona-coyotes-new-york-rangers-M7bDznhE/
+2022-23,2022-10-29,Dallas Stars,New York Rangers,6.0,,False,150.0,280.0,145.0,145.0,150.0,/hockey/usa/nhl-2022-2023/dallas-stars-new-york-rangers-8MPWN888/
+2022-23,2022-10-26,New York Islanders,New York Rangers,3.0,,False,120.0,320.0,165.0,165.0,120.0,/hockey/usa/nhl-2022-2023/new-york-islanders-new-york-rangers-Y3BlBVO2/
+2022-23,2022-10-25,New York Rangers,Colorado Avalanche,3.0,,True,140.0,325.0,140.0,140.0,140.0,/hockey/usa/nhl-2022-2023/new-york-rangers-colorado-avalanche-EavOfAvM/
+2022-23,2022-10-23,New York Rangers,Columbus Blue Jackets,5.0,,True,-172.0,375.0,350.0,-172.0,350.0,/hockey/usa/nhl-2022-2023/new-york-rangers-columbus-blue-jackets-pStWZ82d/
+2022-23,2022-10-20,New York Rangers,San Jose Sharks,3.0,,True,-200.0,375.0,400.0,-200.0,400.0,/hockey/usa/nhl-2022-2023/new-york-rangers-san-jose-sharks-ATb0qMZh/
+2022-23,2022-10-17,New York Rangers,Anaheim Ducks,6.0,,True,-147.0,350.0,300.0,-147.0,300.0,/hockey/usa/nhl-2022-2023/new-york-rangers-anaheim-ducks-4Sgnx5SP/
+2022-23,2022-10-14,Winnipeg Jets,New York Rangers,4.0,,False,125.0,300.0,160.0,160.0,125.0,/hockey/usa/nhl-2022-2023/winnipeg-jets-new-york-rangers-fLMnfOVK/
+2022-23,2022-10-13,Minnesota Wild,New York Rangers,7.0,,False,125.0,325.0,165.0,165.0,125.0,/hockey/usa/nhl-2022-2023/minnesota-wild-new-york-rangers-WnyhYt91/
+2022-23,2022-10-11,New York Rangers,Tampa Bay Lightning,3.0,,True,125.0,320.0,160.0,125.0,160.0,/hockey/usa/nhl-2022-2023/new-york-rangers-tampa-bay-lightning-nZs4q7H2/
+2022-23,2022-10-05,New York Rangers,Boston Bruins,5.0,,True,,,,,,/hockey/usa/nhl-2022-2023/new-york-rangers-boston-bruins-Io258Sji/
+2022-23,2022-09-30,New Jersey Devils,New York Rangers,2.0,,False,,,,,,/hockey/usa/nhl-2022-2023/new-jersey-devils-new-york-rangers-WGtxxeGC/
+2022-23,2022-09-29,New York Rangers,New Jersey Devils,5.0,,True,,,,,,/hockey/usa/nhl-2022-2023/new-york-rangers-new-jersey-devils-zVpHtJ1s/
+2022-23,2022-09-27,Boston Bruins,New York Rangers,3.0,,False,,,,,,/hockey/usa/nhl-2022-2023/boston-bruins-new-york-rangers-0za7Uiik/
+2022-23,2022-09-26,New York Rangers,New York Islanders,4.0,,True,,,,,,/hockey/usa/nhl-2022-2023/new-york-rangers-new-york-islanders-YLrRlMx4/
+2023-24,2024-06-01,Florida Panthers,New York Rangers,2.0,,False,-105.0,300.0,229.0,229.0,-105.0,/hockey/usa/nhl-2023-2024/florida-panthers-new-york-rangers-ruABZXTQ/
+2023-24,2024-05-30,New York Rangers,Florida Panthers,3.0,,True,170.0,280.0,129.0,170.0,129.0,/hockey/usa/nhl-2023-2024/new-york-rangers-florida-panthers-xx4sCo4L/
+2023-24,2024-05-28,Florida Panthers,New York Rangers,3.0,,False,-105.0,300.0,225.0,225.0,-105.0,/hockey/usa/nhl-2023-2024/florida-panthers-new-york-rangers-fTduxnge/
+2023-24,2024-05-26,Florida Panthers,New York Rangers,5.0,,False,110.0,280.0,210.0,210.0,110.0,/hockey/usa/nhl-2023-2024/florida-panthers-new-york-rangers-YD8Ww8Or/
+2023-24,2024-05-24,New York Rangers,Florida Panthers,2.0,,True,154.0,280.0,145.0,154.0,145.0,/hockey/usa/nhl-2023-2024/new-york-rangers-florida-panthers-Im31qU0L/
+2023-24,2024-05-22,New York Rangers,Florida Panthers,3.0,,True,150.0,280.0,140.0,150.0,140.0,/hockey/usa/nhl-2023-2024/new-york-rangers-florida-panthers-ML9hojW8/
+2023-24,2024-05-16,Carolina Hurricanes,New York Rangers,5.0,,False,100.0,325.0,190.0,190.0,100.0,/hockey/usa/nhl-2023-2024/carolina-hurricanes-new-york-rangers-OSYhcFLF/
+2023-24,2024-05-13,New York Rangers,Carolina Hurricanes,4.0,,True,150.0,280.0,150.0,150.0,150.0,/hockey/usa/nhl-2023-2024/new-york-rangers-carolina-hurricanes-CMEWhIid/
+2023-24,2024-05-11,Carolina Hurricanes,New York Rangers,4.0,,False,114.0,280.0,190.0,190.0,114.0,/hockey/usa/nhl-2023-2024/carolina-hurricanes-new-york-rangers-z3SEjIlC/
+2023-24,2024-05-09,Carolina Hurricanes,New York Rangers,3.0,,False,104.0,300.0,210.0,210.0,104.0,/hockey/usa/nhl-2023-2024/carolina-hurricanes-new-york-rangers-G0CDhvKa/
+2023-24,2024-05-07,New York Rangers,Carolina Hurricanes,4.0,,True,160.0,280.0,140.0,160.0,140.0,/hockey/usa/nhl-2023-2024/new-york-rangers-carolina-hurricanes-rmE5f0km/
+2023-24,2024-05-05,New York Rangers,Carolina Hurricanes,4.0,,True,150.0,300.0,140.0,150.0,140.0,/hockey/usa/nhl-2023-2024/new-york-rangers-carolina-hurricanes-8d6icu1E/
+2023-24,2024-04-28,Washington Capitals,New York Rangers,4.0,,False,260.0,320.0,-120.0,-120.0,260.0,/hockey/usa/nhl-2023-2024/washington-capitals-new-york-rangers-YTQAfB4e/
+2023-24,2024-04-26,Washington Capitals,New York Rangers,3.0,,False,220.0,300.0,100.0,100.0,220.0,/hockey/usa/nhl-2023-2024/washington-capitals-new-york-rangers-02D3dXZr/
+2023-24,2024-04-23,New York Rangers,Washington Capitals,4.0,,True,-154.0,325.0,350.0,-154.0,350.0,/hockey/usa/nhl-2023-2024/new-york-rangers-washington-capitals-GUyX1gCL/
+2023-24,2024-04-21,New York Rangers,Washington Capitals,4.0,,True,-154.0,325.0,350.0,-154.0,350.0,/hockey/usa/nhl-2023-2024/new-york-rangers-washington-capitals-Y7RlWFft/
+2023-24,2024-04-15,New York Rangers,Ottawa Senators,,,True,-130.0,325.0,275.0,-130.0,275.0,/hockey/usa/nhl-2023-2024/new-york-rangers-ottawa-senators-d8PphDGp/
+2023-24,2024-04-13,New York Rangers,New York Islanders,,,True,100.0,300.0,210.0,100.0,210.0,/hockey/usa/nhl-2023-2024/new-york-rangers-new-york-islanders-fa91IFTd/
+2023-24,2024-04-11,New York Rangers,Philadelphia Flyers,,,True,-145.0,325.0,260.0,-145.0,260.0,/hockey/usa/nhl-2023-2024/new-york-rangers-philadelphia-flyers-zexy2fqG/
+2023-24,2024-04-09,New York Islanders,New York Rangers,,,False,154.0,300.0,140.0,140.0,154.0,/hockey/usa/nhl-2023-2024/new-york-islanders-new-york-rangers-SEp5lyFG/
+2023-24,2024-04-07,New York Rangers,Montreal Canadiens,,,True,-227.0,400.0,500.0,-227.0,500.0,/hockey/usa/nhl-2023-2024/new-york-rangers-montreal-canadiens-MDioZbA5/
+2023-24,2024-04-05,Detroit Red Wings,New York Rangers,,,False,154.0,300.0,135.0,135.0,154.0,/hockey/usa/nhl-2023-2024/detroit-red-wings-new-york-rangers-AiwkjxT6/
+2023-24,2024-04-03,New York Rangers,New Jersey Devils,,,True,-125.0,325.0,250.0,-125.0,250.0,/hockey/usa/nhl-2023-2024/new-york-rangers-new-jersey-devils-tpmxzQPs/
+2023-24,2024-04-01,New York Rangers,Pittsburgh Penguins,,,True,-110.0,325.0,229.0,-110.0,229.0,/hockey/usa/nhl-2023-2024/new-york-rangers-pittsburgh-penguins-2gS2LQAl/
+2023-24,2024-03-30,Arizona Coyotes,New York Rangers,,,False,225.0,320.0,-105.0,-105.0,225.0,/hockey/usa/nhl-2023-2024/arizona-coyotes-new-york-rangers-rVhQ77tk/
+2023-24,2024-03-28,Colorado Avalanche,New York Rangers,,,False,114.0,320.0,179.0,179.0,114.0,/hockey/usa/nhl-2023-2024/colorado-avalanche-new-york-rangers-dYKxHBJ2/
+2023-24,2024-03-26,New York Rangers,Philadelphia Flyers,,,True,-120.0,320.0,260.0,-120.0,260.0,/hockey/usa/nhl-2023-2024/new-york-rangers-philadelphia-flyers-U5iGtVsj/
+2023-24,2024-03-23,New York Rangers,Florida Panthers,,,True,150.0,300.0,140.0,150.0,140.0,/hockey/usa/nhl-2023-2024/new-york-rangers-florida-panthers-tUf5oKTH/
+2023-24,2024-03-21,Boston Bruins,New York Rangers,,,False,114.0,300.0,190.0,190.0,114.0,/hockey/usa/nhl-2023-2024/boston-bruins-new-york-rangers-CUv7xPpm/
+2023-24,2024-03-19,New York Rangers,Winnipeg Jets,,,True,140.0,300.0,154.0,140.0,154.0,/hockey/usa/nhl-2023-2024/new-york-rangers-winnipeg-jets-z5XXr0Km/
+2023-24,2024-03-17,New York Rangers,New York Islanders,,,True,110.0,300.0,200.0,110.0,200.0,/hockey/usa/nhl-2023-2024/new-york-rangers-new-york-islanders-6gV8PHk1/
+2023-24,2024-03-16,Pittsburgh Penguins,New York Rangers,,,False,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2023-2024/pittsburgh-penguins-new-york-rangers-xGYXN4Ed/
+2023-24,2024-03-14,Tampa Bay Lightning,New York Rangers,6.0,,False,150.0,300.0,145.0,145.0,150.0,/hockey/usa/nhl-2023-2024/tampa-bay-lightning-new-york-rangers-lj0pX8iA/
+2023-24,2024-03-12,Carolina Hurricanes,New York Rangers,1.0,,False,100.0,300.0,210.0,210.0,100.0,/hockey/usa/nhl-2023-2024/carolina-hurricanes-new-york-rangers-xYNaLBhb/
+2023-24,2024-03-11,New York Rangers,New Jersey Devils,3.0,,True,114.0,325.0,175.0,114.0,175.0,/hockey/usa/nhl-2023-2024/new-york-rangers-new-jersey-devils-4SJGbloo/
+2023-24,2024-03-09,New York Rangers,St Louis Blues,4.0,,True,-125.0,320.0,275.0,-125.0,275.0,/hockey/usa/nhl-2023-2024/new-york-rangers-st-louis-blues-4SsP8Y8h/
+2023-24,2024-03-04,New York Rangers,Florida Panthers,4.0,,True,154.0,300.0,135.0,154.0,135.0,/hockey/usa/nhl-2023-2024/new-york-rangers-florida-panthers-8KlpwsJ7/
+2023-24,2024-03-02,Toronto Maple Leafs,New York Rangers,4.0,,False,129.0,320.0,154.0,154.0,129.0,/hockey/usa/nhl-2023-2024/toronto-maple-leafs-new-york-rangers-WYukXN90/
+2023-24,2024-02-28,New York Rangers,Columbus Blue Jackets,4.0,,True,-149.0,350.0,320.0,-149.0,320.0,/hockey/usa/nhl-2023-2024/new-york-rangers-columbus-blue-jackets-CQlTn8g2/
+2023-24,2024-02-25,Columbus Blue Jackets,New York Rangers,4.0,,False,225.0,325.0,-110.0,-110.0,225.0,/hockey/usa/nhl-2023-2024/columbus-blue-jackets-new-york-rangers-n3akyBfj/
+2023-24,2024-02-24,Philadelphia Flyers,New York Rangers,2.0,,False,179.0,300.0,120.0,120.0,179.0,/hockey/usa/nhl-2023-2024/philadelphia-flyers-new-york-rangers-QZV7OXAp/
+2023-24,2024-02-22,New Jersey Devils,New York Rangers,5.0,,False,150.0,320.0,135.0,135.0,150.0,/hockey/usa/nhl-2023-2024/new-jersey-devils-new-york-rangers-bJ2KXylb/
+2023-24,2024-02-20,New York Rangers,Dallas Stars,3.0,,True,120.0,320.0,170.0,120.0,170.0,/hockey/usa/nhl-2023-2024/new-york-rangers-dallas-stars-4rOsKIJb/
+2023-24,2024-02-18,New York Islanders,New York Rangers,6.0,,False,190.0,300.0,110.0,110.0,190.0,/hockey/usa/nhl-2023-2024/new-york-islanders-new-york-rangers-QX4EI5rf/
+2023-24,2024-02-15,New York Rangers,Montreal Canadiens,7.0,,True,-145.0,350.0,300.0,-145.0,300.0,/hockey/usa/nhl-2023-2024/new-york-rangers-montreal-canadiens-SA2xOkd6/
+2023-24,2024-02-12,New York Rangers,Calgary Flames,2.0,,True,104.0,300.0,210.0,104.0,210.0,/hockey/usa/nhl-2023-2024/new-york-rangers-calgary-flames-SAt78AdJ/
+2023-24,2024-02-09,Chicago Blackhawks,New York Rangers,4.0,,False,425.0,350.0,-189.0,-189.0,425.0,/hockey/usa/nhl-2023-2024/chicago-blackhawks-new-york-rangers-IP8XnEh9/
+2023-24,2024-02-07,New York Rangers,Tampa Bay Lightning,3.0,,True,140.0,320.0,150.0,140.0,150.0,/hockey/usa/nhl-2023-2024/new-york-rangers-tampa-bay-lightning-rgq8pLWA/
+2023-24,2024-02-05,New York Rangers,Colorado Avalanche,2.0,,True,150.0,325.0,135.0,150.0,135.0,/hockey/usa/nhl-2023-2024/new-york-rangers-colorado-avalanche-UVxhl3Xo/
+2023-24,2024-01-27,Ottawa Senators,New York Rangers,7.0,,False,140.0,325.0,145.0,145.0,140.0,/hockey/usa/nhl-2023-2024/ottawa-senators-new-york-rangers-IwI05ppA/
+2023-24,2024-01-26,New York Rangers,Vegas Golden Knights,5.0,,True,-105.0,350.0,190.0,-105.0,190.0,/hockey/usa/nhl-2023-2024/new-york-rangers-vegas-golden-knights-bNGxwI7m/
+2023-24,2024-01-23,San Jose Sharks,New York Rangers,3.0,,False,450.0,375.0,-200.0,-200.0,450.0,/hockey/usa/nhl-2023-2024/san-jose-sharks-new-york-rangers-OWOyVKFQ/
+2023-24,2024-01-21,Anaheim Ducks,New York Rangers,5.0,,False,280.0,325.0,-130.0,-130.0,280.0,/hockey/usa/nhl-2023-2024/anaheim-ducks-new-york-rangers-EcZiVT99/
+2023-24,2024-01-20,Los Angeles Kings,New York Rangers,2.0,,False,135.0,300.0,154.0,154.0,135.0,/hockey/usa/nhl-2023-2024/los-angeles-kings-new-york-rangers-OGWixnGN/
+2023-24,2024-01-18,Vegas Golden Knights,New York Rangers,5.0,,False,175.0,300.0,125.0,125.0,175.0,/hockey/usa/nhl-2023-2024/vegas-golden-knights-new-york-rangers-GW42RU15/
+2023-24,2024-01-16,New York Rangers,Seattle Kraken,5.0,,True,-130.0,320.0,280.0,-130.0,280.0,/hockey/usa/nhl-2023-2024/new-york-rangers-seattle-kraken-j9FOFX2g/
+2023-24,2024-01-14,New York Rangers,Washington Capitals,2.0,,True,-141.0,325.0,300.0,-141.0,300.0,/hockey/usa/nhl-2023-2024/new-york-rangers-washington-capitals-YF9qF0Cr/
+2023-24,2024-01-13,Washington Capitals,New York Rangers,3.0,,False,190.0,300.0,110.0,110.0,190.0,/hockey/usa/nhl-2023-2024/washington-capitals-new-york-rangers-rN2v6NZR/
+2023-24,2024-01-11,St Louis Blues,New York Rangers,5.0,,False,210.0,320.0,100.0,100.0,210.0,/hockey/usa/nhl-2023-2024/st-louis-blues-new-york-rangers-EsBN95z3/
+2023-24,2024-01-08,New York Rangers,Vancouver Canucks,6.0,,True,110.0,320.0,190.0,110.0,190.0,/hockey/usa/nhl-2023-2024/new-york-rangers-vancouver-canucks-QJVJvyra/
+2023-24,2024-01-06,Montreal Canadiens,New York Rangers,4.0,,False,229.0,325.0,-115.0,-115.0,229.0,/hockey/usa/nhl-2023-2024/montreal-canadiens-new-york-rangers-IeNiy2y7/
+2023-24,2024-01-04,New York Rangers,Chicago Blackhawks,4.0,,True,-250.0,450.0,500.0,-250.0,500.0,/hockey/usa/nhl-2023-2024/new-york-rangers-chicago-blackhawks-QPvFtnkJ/
+2023-24,2024-01-02,New York Rangers,Carolina Hurricanes,6.0,,True,135.0,300.0,154.0,135.0,154.0,/hockey/usa/nhl-2023-2024/new-york-rangers-carolina-hurricanes-phlKiCcK/
+2023-24,2023-12-30,Tampa Bay Lightning,New York Rangers,5.0,,False,145.0,300.0,140.0,140.0,145.0,/hockey/usa/nhl-2023-2024/tampa-bay-lightning-new-york-rangers-tb6hwDrR/
+2023-24,2023-12-29,Florida Panthers,New York Rangers,4.0,,False,114.0,320.0,179.0,179.0,114.0,/hockey/usa/nhl-2023-2024/florida-panthers-new-york-rangers-l4sFPgER/
+2023-24,2023-12-27,New York Rangers,Washington Capitals,5.0,,True,-125.0,320.0,275.0,-125.0,275.0,/hockey/usa/nhl-2023-2024/new-york-rangers-washington-capitals-4zvOROwb/
+2023-24,2023-12-23,New York Rangers,Buffalo Sabres,4.0,,True,-105.0,325.0,210.0,-105.0,210.0,/hockey/usa/nhl-2023-2024/new-york-rangers-buffalo-sabres-xlG0AN8N/
+2023-24,2023-12-22,New York Rangers,Edmonton Oilers,4.0,,True,135.0,325.0,150.0,135.0,150.0,/hockey/usa/nhl-2023-2024/new-york-rangers-edmonton-oilers-pQsH1tTj/
+2023-24,2023-12-19,Toronto Maple Leafs,New York Rangers,5.0,,False,145.0,300.0,140.0,140.0,145.0,/hockey/usa/nhl-2023-2024/toronto-maple-leafs-new-york-rangers-Mqd66VEI/
+2023-24,2023-12-16,Boston Bruins,New York Rangers,2.0,,False,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2023-2024/boston-bruins-new-york-rangers-Cv8Jdfof/
+2023-24,2023-12-15,New York Rangers,Anaheim Ducks,5.0,,True,-189.0,375.0,400.0,-189.0,400.0,/hockey/usa/nhl-2023-2024/new-york-rangers-anaheim-ducks-KtTv4xgK/
+2023-24,2023-12-12,New York Rangers,Toronto Maple Leafs,7.0,,True,-110.0,325.0,225.0,-110.0,225.0,/hockey/usa/nhl-2023-2024/new-york-rangers-toronto-maple-leafs-6oT25fgo/
+2023-24,2023-12-10,New York Rangers,Los Angeles Kings,4.0,,True,140.0,300.0,150.0,140.0,150.0,/hockey/usa/nhl-2023-2024/new-york-rangers-los-angeles-kings-OzLfXwIr/
+2023-24,2023-12-09,Washington Capitals,New York Rangers,4.0,,False,240.0,320.0,-110.0,-110.0,240.0,/hockey/usa/nhl-2023-2024/washington-capitals-new-york-rangers-hxnWUpdp/
+2023-24,2023-12-05,Ottawa Senators,New York Rangers,6.0,,False,179.0,320.0,114.0,114.0,179.0,/hockey/usa/nhl-2023-2024/ottawa-senators-new-york-rangers-djtNqvXO/
+2023-24,2023-12-03,New York Rangers,San Jose Sharks,6.0,,True,-227.0,400.0,500.0,-227.0,500.0,/hockey/usa/nhl-2023-2024/new-york-rangers-san-jose-sharks-rL97B2vP/
+2023-24,2023-12-02,Nashville Predators,New York Rangers,4.0,,False,220.0,300.0,100.0,100.0,220.0,/hockey/usa/nhl-2023-2024/nashville-predators-new-york-rangers-lvzIZEQE/
+2023-24,2023-11-29,New York Rangers,Detroit Red Wings,3.0,,True,-120.0,320.0,250.0,-120.0,250.0,/hockey/usa/nhl-2023-2024/new-york-rangers-detroit-red-wings-MDFp0EZe/
+2023-24,2023-11-27,New York Rangers,Buffalo Sabres,5.0,,True,-135.0,325.0,280.0,-135.0,280.0,/hockey/usa/nhl-2023-2024/new-york-rangers-buffalo-sabres-YTf7ne5d/
+2023-24,2023-11-25,New York Rangers,Boston Bruins,7.0,,True,145.0,300.0,145.0,145.0,145.0,/hockey/usa/nhl-2023-2024/new-york-rangers-boston-bruins-0GK7b1bi/
+2023-24,2023-11-24,Philadelphia Flyers,New York Rangers,3.0,,False,190.0,300.0,114.0,114.0,190.0,/hockey/usa/nhl-2023-2024/philadelphia-flyers-new-york-rangers-EkHpqMb4/
+2023-24,2023-11-22,Pittsburgh Penguins,New York Rangers,1.0,,False,135.0,300.0,154.0,154.0,135.0,/hockey/usa/nhl-2023-2024/pittsburgh-penguins-new-york-rangers-f5KDtTx6/
+2023-24,2023-11-20,Dallas Stars,New York Rangers,6.0,,False,140.0,300.0,154.0,154.0,140.0,/hockey/usa/nhl-2023-2024/dallas-stars-new-york-rangers-GjsRkXFJ/
+2023-24,2023-11-18,New Jersey Devils,New York Rangers,5.0,,False,145.0,300.0,140.0,140.0,145.0,/hockey/usa/nhl-2023-2024/new-jersey-devils-new-york-rangers-YDCmxEoK/
+2023-24,2023-11-12,New York Rangers,Columbus Blue Jackets,4.0,,True,-141.0,350.0,280.0,-141.0,280.0,/hockey/usa/nhl-2023-2024/new-york-rangers-columbus-blue-jackets-0WYw3hE3/
+2023-24,2023-11-09,New York Rangers,Minnesota Wild,4.0,,True,135.0,320.0,150.0,135.0,150.0,/hockey/usa/nhl-2023-2024/new-york-rangers-minnesota-wild-6ZIQxd0b/
+2023-24,2023-11-07,New York Rangers,Detroit Red Wings,5.0,,True,104.0,320.0,200.0,104.0,200.0,/hockey/usa/nhl-2023-2024/new-york-rangers-detroit-red-wings-I9dwmb8a/
+2023-24,2023-11-04,Minnesota Wild,New York Rangers,5.0,,False,145.0,300.0,140.0,140.0,145.0,/hockey/usa/nhl-2023-2024/minnesota-wild-new-york-rangers-8boanRHl/
+2023-24,2023-11-02,New York Rangers,Carolina Hurricanes,2.0,,True,150.0,300.0,145.0,150.0,145.0,/hockey/usa/nhl-2023-2024/new-york-rangers-carolina-hurricanes-dKukvUPR/
+2023-24,2023-10-30,Winnipeg Jets,New York Rangers,3.0,,False,154.0,300.0,135.0,135.0,154.0,/hockey/usa/nhl-2023-2024/winnipeg-jets-new-york-rangers-QXYBoopM/
+2023-24,2023-10-28,Vancouver Canucks,New York Rangers,4.0,,False,229.0,300.0,-105.0,-105.0,229.0,/hockey/usa/nhl-2023-2024/vancouver-canucks-new-york-rangers-U5u3m7F9/
+2023-24,2023-10-26,Edmonton Oilers,New York Rangers,3.0,,False,154.0,300.0,135.0,135.0,154.0,/hockey/usa/nhl-2023-2024/edmonton-oilers-new-york-rangers-OnwCS5wp/
+2023-24,2023-10-24,Calgary Flames,New York Rangers,3.0,,False,165.0,300.0,125.0,125.0,165.0,/hockey/usa/nhl-2023-2024/calgary-flames-new-york-rangers-06TMldfn/
+2023-24,2023-10-21,Seattle Kraken,New York Rangers,4.0,,False,154.0,320.0,135.0,135.0,154.0,/hockey/usa/nhl-2023-2024/seattle-kraken-new-york-rangers-lIfv9oUP/
+2023-24,2023-10-19,New York Rangers,Nashville Predators,4.0,,True,-115.0,320.0,240.0,-115.0,240.0,/hockey/usa/nhl-2023-2024/new-york-rangers-nashville-predators-vN1gxmgl/
+2023-24,2023-10-16,New York Rangers,Arizona Coyotes,2.0,,True,-141.0,350.0,280.0,-141.0,280.0,/hockey/usa/nhl-2023-2024/new-york-rangers-arizona-coyotes-v9MKNmve/
+2023-24,2023-10-14,Columbus Blue Jackets,New York Rangers,5.0,,False,275.0,350.0,-135.0,-135.0,275.0,/hockey/usa/nhl-2023-2024/columbus-blue-jackets-new-york-rangers-SnQNslET/
+2023-24,2023-10-12,Buffalo Sabres,New York Rangers,5.0,,False,154.0,325.0,129.0,129.0,154.0,/hockey/usa/nhl-2023-2024/buffalo-sabres-new-york-rangers-IH6uVAUN/
+2024-25,,Toronto Maple Leafs,New York Rangers,,,False,+179,+333,+125,+125,+179,https://www.oddsportal.com/hockey/usa/nhl/toronto-maple-leafs-new-york-rangers-GxIWNXd3/
+2024-25,2026-03-23,New York Rangers,Ottawa Senators,,,True,+260,+340,-120,+260,-120,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-ottawa-senators-CUfWfZSG/
+2024-25,2026-03-22,New York Rangers,Winnipeg Jets,,,True,+135,+325,+165,+135,+165,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-winnipeg-jets-rk3FbHTi/
+2024-25,2026-03-19,Columbus Blue Jackets,New York Rangers,,,False,-141,+350,+300,+300,-141,https://www.oddsportal.com/hockey/usa/nhl/columbus-blue-jackets-new-york-rangers-jRK3CkO8/
+2024-25,2026-03-18,New York Rangers,New Jersey Devils,,,True,+170,+309,+129,+170,+129,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-new-jersey-devils-27JSAxm4/
+2024-25,2026-03-16,New York Rangers,Los Angeles Kings,,,True,+145,+300,+150,+145,+150,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-los-angeles-kings-lvSyd9MU/
+2024-25,2026-03-14,Minnesota Wild,New York Rangers,,,False,-125,+325,+275,+275,-125,https://www.oddsportal.com/hockey/usa/nhl/minnesota-wild-new-york-rangers-tWHafdoQ/
+2024-25,2026-03-12,Winnipeg Jets,New York Rangers,,,False,+104,+300,+220,+220,+104,https://www.oddsportal.com/hockey/usa/nhl/winnipeg-jets-new-york-rangers-CYUJFfng/
+2024-25,2026-03-10,New York Rangers,Calgary Flames,,,True,+129,+300,+170,+129,+170,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-calgary-flames-0zwKpzmJ/
+2024-25,2026-03-09,Philadelphia Flyers,New York Rangers,,,False,+118,+300,+190,+190,+118,https://www.oddsportal.com/hockey/usa/nhl/philadelphia-flyers-new-york-rangers-6oob2jrB/
+2024-25,2026-03-07,New Jersey Devils,New York Rangers,,,False,-110,+320,+240,+240,-110,https://www.oddsportal.com/hockey/usa/nhl/new-jersey-devils-new-york-rangers-vojTdahR/
+2024-25,2026-03-05,New York Rangers,Toronto Maple Leafs,,,True,+120,+300,+185,+120,+185,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-toronto-maple-leafs-4z8jepSq/
+2024-25,2026-03-02,New York Rangers,Columbus Blue Jackets,,,True,+165,+300,+135,+165,+135,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-columbus-blue-jackets-fNsC6FKa/
+2024-25,2026-02-28,New York Rangers,Pittsburgh Penguins,,,True,+170,+300,+125,+170,+125,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-pittsburgh-penguins-tICE1Tx3/
+2024-25,2026-02-26,New York Rangers,Philadelphia Flyers,,,True,+114,+300,+190,+114,+190,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-philadelphia-flyers-tfYGn0CT/
+2024-25,2026-02-05,New York Rangers,Carolina Hurricanes,,,True,+300,+350,-139,+300,-139,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-carolina-hurricanes-OKlkxhhf/
+2024-25,2026-01-31,Pittsburgh Penguins,New York Rangers,,,False,-130,+325,+280,+280,-130,https://www.oddsportal.com/hockey/usa/nhl/pittsburgh-penguins-new-york-rangers-l4ZSxVsC/
+2024-25,2026-01-29,New York Rangers,New York Islanders,,,True,+200,+300,+118,+200,+118,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-new-york-islanders-ULP4nrF8/
+2024-25,2026-01-28,New York Islanders,New York Rangers,,,False,+100,+320,+210,+210,+100,https://www.oddsportal.com/hockey/usa/nhl/new-york-islanders-new-york-rangers-INJOkd43/
+2024-25,2026-01-26,New York Rangers,Boston Bruins,,,True,+175,+325,+125,+175,+125,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-boston-bruins-UJWaQuyh/
+2024-25,2026-01-23,San Jose Sharks,New York Rangers,,,False,+129,+325,+170,+170,+129,https://www.oddsportal.com/hockey/usa/nhl/san-jose-sharks-new-york-rangers-Ae3IHBhK/
+2024-25,2026-01-20,Los Angeles Kings,New York Rangers,,,False,-118,+320,+260,+260,-118,https://www.oddsportal.com/hockey/usa/nhl/los-angeles-kings-new-york-rangers-WA1FUiX1/
+2024-25,2026-01-19,Anaheim Ducks,New York Rangers,,,False,+104,+325,+200,+200,+104,https://www.oddsportal.com/hockey/usa/nhl/anaheim-ducks-new-york-rangers-jwBKuIu3/
+2024-25,2026-01-17,Philadelphia Flyers,New York Rangers,,,False,+125,+320,+170,+170,+125,https://www.oddsportal.com/hockey/usa/nhl/philadelphia-flyers-new-york-rangers-xxzBz8E5/
+2024-25,2026-01-14,New York Rangers,Ottawa Senators,,,True,+160,+320,+129,+160,+129,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-ottawa-senators-Qo8xGPPh/
+2024-25,2026-01-12,New York Rangers,Seattle Kraken,,,True,+118,+300,+190,+118,+190,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-seattle-kraken-OCGd4qY9/
+2024-25,2026-01-10,Boston Bruins,New York Rangers,,,False,+125,+300,+179,+179,+125,https://www.oddsportal.com/hockey/usa/nhl/boston-bruins-new-york-rangers-0zmcSkLh/
+2024-25,2026-01-08,New York Rangers,Buffalo Sabres,,,True,+179,+300,+129,+179,+129,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-buffalo-sabres-UFOkSU3e/
+2024-25,2026-01-05,New York Rangers,Utah Mammoth,,,True,+150,+280,+150,+150,+150,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-utah-mammoth-WpQgAdrA/
+2024-25,2026-01-02,Florida Panthers,New York Rangers,,,False,+110,+300,+200,+200,+110,https://www.oddsportal.com/hockey/usa/nhl/florida-panthers-new-york-rangers-Qo8As786/
+2024-25,2025-12-31,Washington Capitals,New York Rangers,,,False,+118,+300,+210,+210,+118,https://www.oddsportal.com/hockey/usa/nhl/washington-capitals-new-york-rangers-GYsbRfI8/
+2024-25,2025-12-29,Carolina Hurricanes,New York Rangers,,,False,-110,+320,+250,+250,-110,https://www.oddsportal.com/hockey/usa/nhl/carolina-hurricanes-new-york-rangers-KOBcRZ0B/
+2024-25,2025-12-27,New York Islanders,New York Rangers,,,False,+165,+280,+140,+140,+165,https://www.oddsportal.com/hockey/usa/nhl/new-york-islanders-new-york-rangers-vXn8obmJ/
+2024-25,2025-12-23,Washington Capitals,New York Rangers,,,False,+100,+320,+220,+220,+100,https://www.oddsportal.com/hockey/usa/nhl/washington-capitals-new-york-rangers-OMqycXk3/
+2024-25,2025-12-21,Nashville Predators,New York Rangers,,,False,+145,+300,+150,+150,+145,https://www.oddsportal.com/hockey/usa/nhl/nashville-predators-new-york-rangers-UaO1rYzA/
+2024-25,2025-12-20,New York Rangers,Philadelphia Flyers,,,True,+104,+300,+220,+104,+220,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-philadelphia-flyers-dC9pJH7b/
+2024-25,2025-12-18,St Louis Blues,New York Rangers,,,False,+200,+280,+114,+114,+200,https://www.oddsportal.com/hockey/usa/nhl/st-louis-blues-new-york-rangers-zRf2JQ1s/
+2024-25,2025-12-16,New York Rangers,Vancouver Canucks,,,True,+129,+300,+170,+129,+170,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-vancouver-canucks-WzcFH8QG/
+2024-25,2025-12-15,New York Rangers,Anaheim Ducks,,,True,+129,+320,+160,+129,+160,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-anaheim-ducks-SMns1OUF/
+2024-25,2025-12-13,New York Rangers,Montreal Canadiens,,,True,+114,+300,+190,+114,+190,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-montreal-canadiens-Aq17lAdU/
+2024-25,2025-12-10,Chicago Blackhawks,New York Rangers,,,False,+210,+300,+110,+110,+210,https://www.oddsportal.com/hockey/usa/nhl/chicago-blackhawks-new-york-rangers-I3yhTnDF/
+2024-25,2025-12-07,New York Rangers,Vegas Golden Knights,,,True,+229,+333,-110,+229,-110,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-vegas-golden-knights-G4OR5hFi/
+2024-25,2025-12-06,New York Rangers,Colorado Avalanche,,,True,+229,+333,-110,+229,-110,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-colorado-avalanche-6kNsctHD/
+2024-25,2025-12-04,Ottawa Senators,New York Rangers,,,False,+120,+320,+179,+179,+120,https://www.oddsportal.com/hockey/usa/nhl/ottawa-senators-new-york-rangers-69gQNcSF/
+2024-25,2025-12-02,New York Rangers,Dallas Stars,,,True,+175,+320,+125,+175,+125,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-dallas-stars-bHgykWWi/
+2024-25,2025-11-29,New York Rangers,Tampa Bay Lightning,,,True,+120,+325,+175,+120,+175,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-tampa-bay-lightning-dAtwBGlm/
+2024-25,2025-11-28,Boston Bruins,New York Rangers,,,False,+240,+325,-105,-105,+240,https://www.oddsportal.com/hockey/usa/nhl/boston-bruins-new-york-rangers-b1140QzS/
+2024-25,2025-11-26,Carolina Hurricanes,New York Rangers,,,False,-120,+340,+275,+275,-120,https://www.oddsportal.com/hockey/usa/nhl/carolina-hurricanes-new-york-rangers-SdThrREq/
+2024-25,2025-11-24,New York Rangers,St Louis Blues,,,True,+110,+320,+210,+110,+210,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-st-louis-blues-Kh5zuAho/
+2024-25,2025-11-22,Utah Mammoth,New York Rangers,,,False,+114,+320,+190,+190,+114,https://www.oddsportal.com/hockey/usa/nhl/utah-mammoth-new-york-rangers-pfN4lNPs/
+2024-25,2025-11-20,Colorado Avalanche,New York Rangers,,,False,-120,+359,+260,+260,-120,https://www.oddsportal.com/hockey/usa/nhl/colorado-avalanche-new-york-rangers-SrzV6Pt2/
+2024-25,2025-11-18,Vegas Golden Knights,New York Rangers,,,False,+114,+325,+190,+190,+114,https://www.oddsportal.com/hockey/usa/nhl/vegas-golden-knights-new-york-rangers-xS6bGxEb/
+2024-25,2025-11-16,New York Rangers,Detroit Red Wings,,,True,+114,+325,+190,+114,+190,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-detroit-red-wings-b7vbmvpC/
+2024-25,2025-11-15,Columbus Blue Jackets,New York Rangers,,,False,+165,+325,+129,+129,+165,https://www.oddsportal.com/hockey/usa/nhl/columbus-blue-jackets-new-york-rangers-xYR7xNVg/
+2024-25,2025-11-12,Tampa Bay Lightning,New York Rangers,,,False,+125,+309,+175,+175,+125,https://www.oddsportal.com/hockey/usa/nhl/tampa-bay-lightning-new-york-rangers-juxfVp7T/
+2024-25,2025-11-10,New York Rangers,Nashville Predators,,,True,-120,+340,+260,-120,+260,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-nashville-predators-tS94KThB/
+2024-25,2025-11-08,New York Rangers,New York Islanders,,,True,+100,+333,+225,+100,+225,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-new-york-islanders-hnXh6wY0/
+2024-25,2025-11-07,Detroit Red Wings,New York Rangers,,,False,+125,+325,+170,+170,+125,https://www.oddsportal.com/hockey/usa/nhl/detroit-red-wings-new-york-rangers-KKgCg0le/
+2024-25,2025-11-04,New York Rangers,Carolina Hurricanes,,,True,+160,+320,+135,+160,+135,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-carolina-hurricanes-IcELFp6j/
+2024-25,2025-11-01,Seattle Kraken,New York Rangers,,,False,+200,+320,+114,+114,+200,https://www.oddsportal.com/hockey/usa/nhl/seattle-kraken-new-york-rangers-StaiukCm/
+2024-25,2025-10-30,Edmonton Oilers,New York Rangers,,,False,+100,+333,+220,+220,+100,https://www.oddsportal.com/hockey/usa/nhl/edmonton-oilers-new-york-rangers-OfRoP1Kr/
+2024-25,2025-10-28,Vancouver Canucks,New York Rangers,,,False,+175,+320,+125,+125,+175,https://www.oddsportal.com/hockey/usa/nhl/vancouver-canucks-new-york-rangers-IyyXUWj4/
+2024-25,2025-10-26,Calgary Flames,New York Rangers,,,False,+175,+320,+129,+129,+175,https://www.oddsportal.com/hockey/usa/nhl/calgary-flames-new-york-rangers-WvgWaCiU/
+2024-25,2025-10-23,New York Rangers,San Jose Sharks,,,True,-182,+400,+400,-182,+400,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-san-jose-sharks-tjK01ZTr/
+2024-25,2025-10-20,New York Rangers,Minnesota Wild,,,True,+104,+325,+210,+104,+210,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-minnesota-wild-SW9UslXh/
+2024-25,2025-10-18,Montreal Canadiens,New York Rangers,,,False,+120,+325,+179,+179,+120,https://www.oddsportal.com/hockey/usa/nhl/montreal-canadiens-new-york-rangers-xrk2Z5ke/
+2024-25,2025-10-16,Toronto Maple Leafs,New York Rangers,,,False,+104,+325,+210,+210,+104,https://www.oddsportal.com/hockey/usa/nhl/toronto-maple-leafs-new-york-rangers-UsVpAkMq/
+2024-25,2025-10-14,New York Rangers,Edmonton Oilers,,,True,+190,+325,+114,+190,+114,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-edmonton-oilers-AXEBej7j/
+2024-25,2025-10-12,New York Rangers,Washington Capitals,,,True,+150,+325,+145,+150,+145,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-washington-capitals-K4w0DQ4m/
+2024-25,2025-10-11,Pittsburgh Penguins,New York Rangers,,,False,+190,+333,+114,+114,+190,https://www.oddsportal.com/hockey/usa/nhl/pittsburgh-penguins-new-york-rangers-zLT6r65D/
+2024-25,2025-10-09,Buffalo Sabres,New York Rangers,,,False,+154,+325,+135,+135,+154,https://www.oddsportal.com/hockey/usa/nhl/buffalo-sabres-new-york-rangers-MFb9wKNG/
+2024-25,2025-10-07,New York Rangers,Pittsburgh Penguins,,,True,-149,+359,+325,-149,+325,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-pittsburgh-penguins-lnOiretJ/
+2024-25,2025-10-04,Boston Bruins,New York Rangers,,,False,+154,+320,+125,+125,+154,https://www.oddsportal.com/hockey/usa/nhl/boston-bruins-new-york-rangers-8nPOw13F/
+2024-25,2025-10-02,New York Rangers,New Jersey Devils,,,True,+175,+325,+110,+175,+110,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-new-jersey-devils-0MLGuNY2/
+2024-25,2025-09-29,New York Islanders,New York Rangers,,,False,-154,+359,+300,+300,-154,https://www.oddsportal.com/hockey/usa/nhl/new-york-islanders-new-york-rangers-IcdWXAFd/
+2024-25,2025-09-25,New York Rangers,New York Islanders,,,True,-133,+350,+250,-133,+250,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-new-york-islanders-C0gOZWpp/
+2024-25,2025-09-23,New York Rangers,Boston Bruins,,,True,-102,+320,+195,-102,+195,https://www.oddsportal.com/hockey/usa/nhl/new-york-rangers-boston-bruins-hGCiugNM/
+2024-25,2025-09-21,New Jersey Devils,New York Rangers,,,False,+120,+300,+145,+145,+120,https://www.oddsportal.com/hockey/usa/nhl/new-jersey-devils-new-york-rangers-K2EqsFhA/
